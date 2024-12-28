@@ -76,5 +76,15 @@ To run this project, ensure you have Microsoft Power BI installed on your system
 - Data manipulation techniques: connections, table joins, calculations, and user-driven parameters for visualization
 - Various visualization types used: bar chart, pie chart, clustered bar chart, line chart, filters, slicers, etc.
   
-## Conclusion
-This project harnesses Power BI's capabilities to empower stakeholders with a dynamic platform for historical sales data analysis. The derived insights lead to informed decisions and refined sales strategies.
+## Summary
+This dashboard has four pages that includes glossary, and other dimensional analysis. These includes various visualizations that comprises of charts, and graphs to analyze the trend and find the growth potential. The filters will enhance the interactivity which allows the users to explore the data by various parameters. Below are the findings from the analysis.
+
+1. Sales and Profitability: Total sales number are very promising with a year-on-year change (%) of 46.90%, which denotes the sales are increasing with strong numbers.
+2. Product Performance: With total of 1861 products, Canon Imageclass 2200 Advanced Copier is the most selling product with the total sales of $61K in overall.
+3. Customer Standing: With 793 total customers, Customer ID (SM-20320) is the top customer with the spending of $20K in overall.
+4. Category Performance: With 3 total categories, Office supplies secures the first place with over 1K products in it.
+5. Sub-category Performance: With 17 sub-categories, Phones stands in the first place with a total products of 276.
+6. Order Value: With a total of 4922 orders, year 2018 has the most orders with the count of 1.7K orders.
+7. Regional Performance: Among 4 regions, West region holds the most customer base of 681 in total, which is 27.4% of the total customers
+8. State and City Performance: With a total of 49 states and 528 cities, California (state) and New York City (city) holds the first position with 570 and 349 customers respectively.
+9. Customer Segmentation: With a total of 3 customer segments, Consumer is the segment that has the most products of 409 in total.
