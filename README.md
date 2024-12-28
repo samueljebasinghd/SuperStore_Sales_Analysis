@@ -21,13 +21,13 @@ To run this project, ensure you have Microsoft Power BI installed on your system
 5. Data Visualization
 
 ## Data Modeling (Star Schema)
-![Data_Modeling](https://github.com/user-attachments/assets/607305e7-66a6-4326-880e-32341552ea04)
+![Data_Modeling](https://github.com/user-attachments/assets/e997a200-f931-4112-9056-1a1675b28452)
 
 ## Dashboard
 ![1](https://github.com/user-attachments/assets/f5680e4d-8824-4cf5-807c-1866b56e4664)
 ![2](https://github.com/user-attachments/assets/e5dd4b58-c853-4c1f-813c-d4388e017eaa)
 ![3](https://github.com/user-attachments/assets/34eff9a1-5cbd-45ff-8c77-dd0f807b72a4)
-![4](https://github.com/user-attachments/assets/ff761dbb-f725-41bd-b2a2-dc8244e044eb)
+![4](https://github.com/user-attachments/assets/e47fe294-b085-4b61-8ee7-bf4f217eee43)
 
 ## Dashboard Insights
 1. Key Performance Indicators (KPIs):
